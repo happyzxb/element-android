@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 默认首页服务器 -->
+    <string name="default_hs_url" translatable="false">https://ma.onchat.top</string>
+    
+    <!-- 默认身份服务器（建议留空） -->
+    <string name="default_identity_server_url" translatable="false"></string>
+    
+    <!-- 禁用身份服务器（推荐） -->
+    <bool name="disable_identity_server">true</bool>
+</resources>
